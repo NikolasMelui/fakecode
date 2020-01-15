@@ -1,2 +1,2 @@
-***FakeCode** - snippets with fake code for various reasons.
+***FakeCode*** - snippets with fake code for various reasons.
 ==
